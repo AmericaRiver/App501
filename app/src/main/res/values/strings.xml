@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">App501</string>
+    <string name="texto01">Donde tus sueños comienzan</string>
+    <string name="texto02">¡Hola, Bienvenido!</string>
+    <string name="texto03">Ingrese sus datos para continuar</string>
+    <string name="texto04">Olvide mi contraseña</string>
+    <string name="texto05">Ingresar</string>
+    <string name="texto06">Soy un nuevo usuario</string>
+    <string name="texto07">¡Bienvenido!</string>
+    <string name="texto08">Registrate para iniciar tu viaje</string>
+    <string name="texto09">Registrarse</string>
+    <string name="texto10">Ya cuento con un registro</string>
+    <string name="texto11">Google</string>
+    <string name="preferencia">mx.tecnm.cdhidalgo.PREFERENCE_FILE_KEY</string>
+</resources>
